@@ -1,0 +1,41 @@
+body {
+
+    background-color: bisque;
+}
+
+
+.poster{
+ width: 50%;
+    margin-left: 25%;
+margin-top: 5%;
+    color: brown;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+
+.chaandimg {
+    border: 5px solid white;
+    width: 100%;
+  }
+
+
+
+h1 {
+text-transform: uppercase;
+font-size: 3rem;
+}
+
+#footer {
+   
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    color: darkcyan;
+    background-color: white;
+    border: 1px solid #ab47bc;
+    height: 32px; 
+    padding: 20px;
+
+
+
+}
